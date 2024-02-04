@@ -17,3 +17,5 @@
 4. 去除了网页中的一些不必要的链接
 5. 增加了友情链接和推广链接，并增加了一些方便找到乌班的链接
 6. 增加了一些有趣的内容
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7d395b64-8ec2-470c-9ac4-35d081dd4b20/deploy-status)](https://app.netlify.com/sites/poetic-yeot-f685f3/deploys)
